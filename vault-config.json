@@ -1,0 +1,16 @@
+{
+  "cdpn.io": {
+    "usernameSelector": "input#user"
+  },
+  "example-domain.com": {
+    "usernameSelector": "input#login",
+    "passwordSelector": "input#passwd",
+    "submitSelector": "button#loginButton"
+  },
+  "google.com": {
+    "usernameSelector": "input#identifierId",
+    "ButtonUserNext": "div#identifierNext",
+    "passwordSelector": "input[name='Passwd']",
+    "submitSelector": "div#passwordNext"
+  }
+}
